@@ -27,7 +27,7 @@ I'm a fullstack Java Developer and a Data Science and AI Enthusiast 🤓
 
 ### 🔭 I’m working on
 
-- Projects for enahancing my learning.
+- Projects for enhancing my learning.
 - Landing a full time role.
 
 ### 🌱 I’m learning
