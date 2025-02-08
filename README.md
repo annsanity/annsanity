@@ -43,4 +43,4 @@ I'm a fullstack Java Developer and a Data Science and AI Enthusiast 🤓
 
 ### ⚡ Fun fact
 
-I'm a huge Swiftie hehe.
+I love playing Valorant :)
