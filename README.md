@@ -42,5 +42,4 @@ I'm a Java Developer and a Data Science and AI Enthusiast 🤓
 
 
 ### ⚡ Fun fact
-
-I love playing Valorant :)
+When I'm not debugging code, I'm probably debugging my emotions with Taylor Swift lyrics. 🎶💻
