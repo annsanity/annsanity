@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Java Developer and a Data Science and AI Enthusiast 🤓
+I'm a Java Developer and an AI Enthusiast 🤓
 
 **I love working with**
 
